@@ -6,6 +6,8 @@ Javascript
 Python
 HTML, CSS
 
+### Database
+MongoDB, SQL, PostgreSQL
 ### Framework
 Angular
 NodeJS
