@@ -1,26 +1,29 @@
-# John Adeniran
+#My name is John Adeniran :smiley:
+
+
+##I am a Software Developer :ok_hand:
 
 
 ## Tech stack
-Javascript
-Python
-HTML, CSS
+ - Javascript
+ - Python
+ - HTML, CSS
 
 ### Database
-MongoDB, SQL, PostgreSQL
-### Framework
-Angular
-NodeJS
+ - MongoDB
+ - SQL
+ - PostgreSQL
+
+### Framework/Library
+ - Angular
+ - NodeJS
 
 
-## Currently learning
-React framework
-Golang
+### Socials
+ ![Twitter](https://img.icons8.com/cotton/64/000000/twitter.png) [Twitter]
 
 
 
-<!--
-**adeniranjohn/adeniranjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
