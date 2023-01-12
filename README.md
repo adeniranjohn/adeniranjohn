@@ -33,13 +33,6 @@ A creative software developer with cloud computing experience in developing clie
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/adeniranjohn"><img src="https://github-readme-stats.vercel.app/api?username=adeniranjohn&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adeniranjohn's GitHub stats" /></a>
-
-<a href="http://www.github.com/adeniranjohn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeniranjohn&stroke=0891b2&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 
 
