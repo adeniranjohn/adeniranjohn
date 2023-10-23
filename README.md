@@ -8,7 +8,7 @@ A creative software developer with cloud computing experience in developing clie
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [jasolajohn@gmail.com](mailto:jasolajohn@gmail.com)
-* 🧠  I'm learning NestJS
+* 🧠  I'm learning Dockerization
 * 🤝  I'm open to collaborating on Open Source projects
 
 ### Skills
