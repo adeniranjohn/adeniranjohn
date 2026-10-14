@@ -19,7 +19,7 @@ A creative software developer with cloud computing experience in developing clie
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [jasolajohn@gmail.com](mailto:jasolajohn@gmail.com)
-* 🧠  I'm learning Dockerization
+* 🧠  I'm learning AI BackEngineering 
 * 🤝  I'm open to collaborating on Open Source projects
 
 ### Socials
